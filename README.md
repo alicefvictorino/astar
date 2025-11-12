@@ -133,3 +133,7 @@ Além disso, a **MST não é uma rota de visitação (Problema do Caixeiro-Viaja
 
 * **Alice Victorino** - [GitHub](https://github.com/alicefvictorino)
 * **Erick Justino** - [GitHub](https://github.com/erickjustino)
+
+## 8. Link do vídeo
+
+[YouTube](https://youtu.be/KUGd6cClPv8)
